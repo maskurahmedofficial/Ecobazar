@@ -18,8 +18,8 @@ export default function ContactInfo() {
       {/* ====== email ============= */}
       <div>
         <FaEnvelope className="text-primary_color text-3xl mx-auto mb-3" />
-        <p className="text-gray-700">shimanto.dev.bd@gmail.com</p>
-        <p className="text-gray-700">help@iamshimanto.com</p>
+        <p className="text-gray-700">maskurahmed392@gmail.com</p>
+        <p className="text-gray-700">help@maskurahmedofficial.com</p>
       </div>
 
       <hr />
@@ -27,8 +27,8 @@ export default function ContactInfo() {
       {/* ====== phone ============= */}
       <div>
         <FaPhone className="text-primary_color text-4xl mx-auto mb-3" />
-        <p className="text-gray-700">(+880) 1750658101</p>
-        <p className="text-gray-700">(+880) 1706017576</p>
+        <p className="text-gray-700">(+880) 1830549979</p>
+        <p className="text-gray-700">(+880) 1608457128</p>
       </div>
     </div>
   );
