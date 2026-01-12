@@ -107,7 +107,6 @@ const Footer = () => {
               alt="Google Play"
               className="w-40 cursor-pointer"
             />
-            
           </div>
         </div>
       </div>
