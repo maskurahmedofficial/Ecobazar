@@ -91,6 +91,7 @@ const Footer = () => {
               Privacy Policy
             </li>
           </ul>
+          
         </div>
 
         <div>
